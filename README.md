@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/BellamyRodford/BellamyRodford.svg)](http://hits.dwyl.com/BellamyRodford/BellamyRodford)
 ### Hi there 👋
 
 - 🔭 I’m currently working on my bachelors degree in computer scicen 
