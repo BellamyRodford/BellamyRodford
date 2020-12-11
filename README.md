@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/BellamyRodford/BellamyRodford.svg)](http://hits.dwyl.com/BellamyRodford/BellamyRodford)
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://giphy.com/embed/L8K62iTDkzGX6" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/BellamyRodford/justagif/blob/main/giphy%20(1).gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on my bachelors degree in computer scicen 
 - 🌱 I’m currently learning data science and machine learning
