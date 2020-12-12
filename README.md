@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/BellamyRodford/BellamyRodford.svg)](http://hits.dwyl.com/BellamyRodford/BellamyRodford)
 <h1 align="center">Hi <img src="https://github.com/BellamyRodford/BellamyRodford/blob/main/Hi.gif?raw=true" width="40px" />, I'm Bellamy</h1>
-<img align="right" alt="GIF" src="https://github.com/BellamyRodford/BellamyRodford/blob/main/giphy%20(1).gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/BellamyRodford/BellamyRodford/blob/main/image_processing20200530-26996-1o1sjav.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on my bachelors degree in computer scicen 
 - 🌱 I’m currently learning data science and machine learning
