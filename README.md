@@ -12,16 +12,17 @@
 - ⚡ Fun fact: am a lot younger then you think
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bellamyrodford&show_icons=true&theme=tokyonight" width="400" height="400">
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Bellamy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bellamyrodford&show_icons=true&theme=tokyonight" />
+
+</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellamyrodford&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="400">
+<img  align="left" alt="Bellamy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellamyrodford&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 </deails>
-
-
-
-
-
