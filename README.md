@@ -51,6 +51,6 @@
 <details>
   <summary>🔥: Bellamy's GitHub streak stats</summary>
 
-<img  align="left" alt="Bellamy's GitHub streak stats" src="https://github-readme-stats.bellamyrodford.vercel.app/?user=BellamyRodford">
+<img  align="left" alt="Bellamy's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bellamyrodford&" alt="bellamyrodford">
 
 </deails>
