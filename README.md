@@ -37,20 +37,20 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Bellamy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bellamyrodford&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="Bellamy's GitHub Stats" src="https://github-readme-stats.bellamyrodford.vercel.app/api?username=bellamyrodford&show_icons=true&theme=tokyonight" />
 
 </details>
 
 <details>
   <summary>💻: Most Used Languages</summary>
 
-<img  align="left" alt="Bellamy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellamyrodford&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img  align="left" alt="Bellamy's GitHub Top Languages" src="https://github-readme-stats.bellamyrodford.vercel.app/api/top-langs/?username=bellamyrodford&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 </details>
 
 <details>
   <summary>🔥: Bellamy's GitHub streak stats</summary>
 
-<img  align="left" alt="Bellamy's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BellamyRodford">
+<img  align="left" alt="Bellamy's GitHub streak stats" src="https://github-readme-stats.bellamyrodford.vercel.app/?user=BellamyRodford">
 
 </deails>
