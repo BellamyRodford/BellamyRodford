@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.com/BellamyRodford/BellamyRodford.svg)](http://hits.dwyl.com/BellamyRodford/BellamyRodford)
-### Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/BellamyRodford/BellamyRodford/blob/main/Hi.gif?raw=true" width="40px" />, I'm Bellamy</h1>
 <img align="right" alt="GIF" src="https://github.com/BellamyRodford/BellamyRodford/blob/main/giphy%20(1).gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on my bachelors degree in computer scicen 
